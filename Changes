@@ -1,0 +1,4 @@
+Revision history for SMS-Send-Retarus: {{ $dist->version }}
+
+{{ $NEXT }}
+    - Initial release using the JSON REST API
